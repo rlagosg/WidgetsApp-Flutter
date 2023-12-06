@@ -83,3 +83,6 @@
 ![Captura 4](/screenShosts/4.png)
 ![Captura 5](/screenShosts/5.png)
 ![Captura 6](/screenShosts/6.png)
+![Captura 7](/screenShosts/7.png)
+![Captura 8](/screenShosts/8.png)
+![Captura 9](/screenShosts/9.png)
