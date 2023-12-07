@@ -36,4 +36,12 @@ class AppTheme {
     )
   );
 
+  AppTheme copyWith({
+    int? selectedColor,
+    bool? isDarkmode
+  }) => AppTheme(
+    selectedColor: selectedColor ?? this.selectedColor,
+    isDarckMode: isDarkmode ?? this.isDarckMode,
+  );
+
 }
