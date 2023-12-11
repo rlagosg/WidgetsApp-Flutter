@@ -76,6 +76,12 @@
 ### 15. Pageviews
 - Utilización del widget PageView para la visualización de contenido paginado y desplazable.
 
+### 16. Drawer (Menús Laterales)
+- Implementación de menús laterales (Drawers) para facilitar la navegación y acceso a funcionalidades desde el lateral de la aplicación.
+
+### 17. Gestor de Estado Riverpod
+- Utilización de Riverpod como gestor de estado global para la manipulación del tema de la aplicación, permitiendo el cambio entre el modo claro y oscuro, así como la personalización del color de las letras.
+
 ## Capturas de Pantalla
 ![Captura 1](/screenShosts/1.png)
 ![Captura 2](/screenShosts/2.png)
@@ -86,3 +92,8 @@
 ![Captura 7](/screenShosts/7.png)
 ![Captura 8](/screenShosts/8.png)
 ![Captura 9](/screenShosts/9.png)
+![Captura 10](/screenShosts/10.png)
+![Captura 11](/screenShosts/11.png)
+![Captura 12](/screenShosts/12.png)
+![Captura 13](/screenShosts/13.png)
+
